@@ -1,0 +1,7 @@
+{
+  "name": "appexer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
